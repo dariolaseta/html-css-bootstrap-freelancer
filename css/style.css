@@ -3,3 +3,12 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+.my_jumbo{
+    background-color: #1abc9c;
+    height: 600px;
+}
+
+.my_bg-red{
+    background-color: red;
+}
