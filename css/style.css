@@ -6,8 +6,6 @@
 
 footer{
     background-color: #3a546d;
-    color: white;
-    font-weight: bold;
 }
 
 .my_jumbo{
@@ -34,4 +32,8 @@ footer{
 
 .my_avatar{
     max-width: 250px;
+}
+
+.my_about{
+    font-weight: bold;
 }
