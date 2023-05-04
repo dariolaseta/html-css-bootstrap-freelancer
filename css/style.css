@@ -13,7 +13,13 @@ footer{
     background-color: #3a546d;
 }
 
-section.my_portfolio div.my_line{
+section.my_contact-me form button{
+    background-color: #1abc9c;
+    border: #1abc9c;
+}
+
+section.my_portfolio div.my_line,
+section.my_contact-me div.my_line{
     background-color: black;
 }
 
