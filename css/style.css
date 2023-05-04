@@ -59,3 +59,11 @@ section.my_contact-me div.my_line{
     border-radius: 1rem;
     background-color: white;
 }
+
+.my_circle{
+    height: 50px;
+    width: 50px;
+    border: 1px solid white;
+    border-radius: 50%;
+    font-size: 1.7rem;
+}
