@@ -13,6 +13,10 @@ footer{
     background-color: #3a546d;
 }
 
+section.my_portfolio div.my_line{
+    background-color: black;
+}
+
 .my_jumbo{
     background-color: #1abc9c;
     color: white;
@@ -41,4 +45,11 @@ footer{
 
 .my_about{
     font-weight: bold;
+}
+
+.my_line{
+    width: 80px;
+    height: 5px;
+    border-radius: 1rem;
+    background-color: white;
 }
